@@ -18,7 +18,7 @@ Estudante de Ciência da Computação na UFC com interesses em Algoritmos, Progr
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denilsobn/denilsobn/output/dist/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denilsobn/denilsobn/output/dist/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/denilsonb/denilsobn/output/dist/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/denilsobn/denilsobn/output/dist/github-snake.svg">
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

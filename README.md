@@ -16,7 +16,7 @@ Estudante de Ciência da Computação na UFC com interesses em Algoritmos, Progr
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=denilsobn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=denilsobn&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=denilsobn&icon=0&color=00599C)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denilsobn/denilsobn/output/github-snake-dark.svg">

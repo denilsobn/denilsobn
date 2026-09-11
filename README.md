@@ -1,5 +1,5 @@
 #  About Me:
-Estudante de Ciência da Computação na UFC com interesses em Algoritmos, Programação Competitiva, Computação Gráfica e Otimização.
+Estudante de Ciência da Computação na UFC com interesses em Algoritmos, Aprendizagem de Máquina, Programação Competitiva, Computação Gráfica e Otimização.
 
 
 ##  Socials:
